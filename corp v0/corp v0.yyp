@@ -1,8 +1,9 @@
 {
   "resources": [
     {"id":{"name":"scr_buildingCompany","path":"scripts/scr_buildingCompany/scr_buildingCompany.yy",},"order":0,},
-    {"id":{"name":"obj_menuOption","path":"objects/obj_menuOption/obj_menuOption.yy",},"order":4,},
-    {"id":{"name":"obj_menuCreator","path":"objects/obj_menuCreator/obj_menuCreator.yy",},"order":5,},
+    {"id":{"name":"obj_titleMenuOption","path":"objects/obj_titleMenuOption/obj_titleMenuOption.yy",},"order":4,},
+    {"id":{"name":"obj_titleMenuCreator","path":"objects/obj_titleMenuCreator/obj_titleMenuCreator.yy",},"order":5,},
+    {"id":{"name":"scr_titleMenuOptions","path":"scripts/scr_titleMenuOptions/scr_titleMenuOptions.yy",},"order":2,},
     {"id":{"name":"obj_company","path":"objects/obj_company/obj_company.yy",},"order":2,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
     {"id":{"name":"rm_titleScreen","path":"rooms/rm_titleScreen/rm_titleScreen.yy",},"order":1,},
