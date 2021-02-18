@@ -1,14 +1,20 @@
 {
   "resources": [
     {"id":{"name":"scr_buildingCompany","path":"scripts/scr_buildingCompany/scr_buildingCompany.yy",},"order":0,},
+    {"id":{"name":"obj_menuOption","path":"objects/obj_menuOption/obj_menuOption.yy",},"order":4,},
+    {"id":{"name":"obj_menuCreator","path":"objects/obj_menuCreator/obj_menuCreator.yy",},"order":5,},
     {"id":{"name":"obj_company","path":"objects/obj_company/obj_company.yy",},"order":2,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
+    {"id":{"name":"rm_titleScreen","path":"rooms/rm_titleScreen/rm_titleScreen.yy",},"order":1,},
     {"id":{"name":"scr_gauss","path":"scripts/scr_gauss/scr_gauss.yy",},"order":1,},
     {"id":{"name":"spr_npc","path":"sprites/spr_npc/spr_npc.yy",},"order":1,},
     {"id":{"name":"obj_testScript","path":"objects/obj_testScript/obj_testScript.yy",},"order":3,},
+    {"id":{"name":"fnt_title","path":"fonts/fnt_title/fnt_title.yy",},"order":0,},
+    {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":6,},
     {"id":{"name":"obj_playerCamera","path":"objects/obj_playerCamera/obj_playerCamera.yy",},"order":0,},
+    {"id":{"name":"fnt_menus","path":"fonts/fnt_menus/fnt_menus.yy",},"order":1,},
     {"id":{"name":"obj_npc","path":"objects/obj_npc/obj_npc.yy",},"order":1,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"rm_playSpace","path":"rooms/rm_playSpace/rm_playSpace.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -24,7 +30,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_titleScreen","path":"rooms/rm_titleScreen/rm_titleScreen.yy",},},
+    {"roomId":{"name":"rm_playSpace","path":"rooms/rm_playSpace/rm_playSpace.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
