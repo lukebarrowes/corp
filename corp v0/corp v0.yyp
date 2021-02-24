@@ -14,7 +14,7 @@
     {"id":{"name":"obj_playerCamera","path":"objects/obj_playerCamera/obj_playerCamera.yy",},"order":0,},
     {"id":{"name":"fnt_menus","path":"fonts/fnt_menus/fnt_menus.yy",},"order":1,},
     {"id":{"name":"obj_npc","path":"objects/obj_npc/obj_npc.yy",},"order":1,},
-    {"id":{"name":"rm_playSpace","path":"rooms/rm_playSpace/rm_playSpace.yy",},"order":0,},
+    {"id":{"name":"rm_corpMap","path":"rooms/rm_corpMap/rm_corpMap.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -31,7 +31,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_titleScreen","path":"rooms/rm_titleScreen/rm_titleScreen.yy",},},
-    {"roomId":{"name":"rm_playSpace","path":"rooms/rm_playSpace/rm_playSpace.yy",},},
+    {"roomId":{"name":"rm_corpMap","path":"rooms/rm_corpMap/rm_corpMap.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
