@@ -1,2 +1,3 @@
-corpHeight = 5;
-corpWidth = 5;
+corpHeight = 10;
+corpWidth = 10;
+buildTiers(corpHeight, corpWidth);

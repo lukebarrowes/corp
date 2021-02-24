@@ -9,7 +9,6 @@
     {"id":{"name":"rm_titleScreen","path":"rooms/rm_titleScreen/rm_titleScreen.yy",},"order":1,},
     {"id":{"name":"scr_gauss","path":"scripts/scr_gauss/scr_gauss.yy",},"order":1,},
     {"id":{"name":"spr_npc","path":"sprites/spr_npc/spr_npc.yy",},"order":1,},
-    {"id":{"name":"obj_testScript","path":"objects/obj_testScript/obj_testScript.yy",},"order":3,},
     {"id":{"name":"fnt_title","path":"fonts/fnt_title/fnt_title.yy",},"order":0,},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":6,},
     {"id":{"name":"obj_playerCamera","path":"objects/obj_playerCamera/obj_playerCamera.yy",},"order":0,},
