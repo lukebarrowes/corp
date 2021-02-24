@@ -21,7 +21,7 @@ function menu_buildMenu()
 //menu option 0
 function menu_playGame()
 {
-	room_goto(rm_playSpace);
+	room_goto(rm_corpMap);
 }
 
 

@@ -31,11 +31,9 @@ function buildTiers(compHeight, compWidth)
 			
 			for (var w = 0; w < tierWidth; w++)
 			{
-				var startDistance = spacing;
-				
-				
-				
-				global.company[tier][w] = instance_create_layer(spacing * w + startDistance, spacing * tier, "layer_company", obj_npc);
+				var startDistance = (((compWidth / 2) - (tierWidth / 2)) * spacing) + (spacing * 4);
+
+				global.company[tier][w] = instance_create_layer(spacing * w + startDistance, spacing * tier + spacing, "layer_company", obj_npc);
 			}
 	}
 	
