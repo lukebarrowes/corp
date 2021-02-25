@@ -1,5 +1,5 @@
 //on startup
-function menu_buildMenu()
+function menu_buildTitleMenu()
 {
 	numOptions = 3;
 	for (var i = numOptions - 1; i >= 0; i--)
@@ -47,7 +47,7 @@ function menu_settings()
 function menu_return()
 {
 	instance_destroy(obj_titleMenuOption);
-	menu_buildMenu();
+	menu_buildTitleMenu();
 }
 
 //menu option 2

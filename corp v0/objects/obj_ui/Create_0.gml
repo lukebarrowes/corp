@@ -1,0 +1,1 @@
+camStartWidth = cameraW;

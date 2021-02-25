@@ -1,1 +1,1 @@
-menu_buildMenu();
+menu_buildTitleMenu();

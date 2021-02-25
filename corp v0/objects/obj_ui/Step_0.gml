@@ -1,0 +1,3 @@
+x = cameraX;
+y = cameraY;
+
