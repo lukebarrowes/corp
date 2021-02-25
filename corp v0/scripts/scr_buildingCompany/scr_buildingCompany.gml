@@ -2,7 +2,7 @@
 function buildTiers(compHeight, compWidth)
 {
 	global.company[0][0] = 5;
-	var spacing = 150;
+	var spacing = 350;
 	
 	for (var tier = 0; tier < compHeight; tier++)
 	{
