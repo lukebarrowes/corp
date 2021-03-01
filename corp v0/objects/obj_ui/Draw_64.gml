@@ -1,0 +1,1 @@
+draw_sprite(spr_ui, -1, 0, 0);
