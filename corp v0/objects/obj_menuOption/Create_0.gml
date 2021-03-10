@@ -1,4 +1,5 @@
-optionText = "click me";
-optionColor = c_white;
-ifWhite = false;
-alarm[0] = 60;
+lastMenu = 0;
+text = "menu option";
+addText = " ";
+mouseHover = false;
+clickable = false;
