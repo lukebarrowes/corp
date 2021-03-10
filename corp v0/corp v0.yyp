@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"scr_buildingCompany","path":"scripts/scr_buildingCompany/scr_buildingCompany.yy",},"order":0,},
     {"id":{"name":"obj_mouseLocator","path":"objects/obj_mouseLocator/obj_mouseLocator.yy",},"order":11,},
+    {"id":{"name":"spr_titleScreen","path":"sprites/spr_titleScreen/spr_titleScreen.yy",},"order":5,},
     {"id":{"name":"spr_ui","path":"sprites/spr_ui/spr_ui.yy",},"order":2,},
     {"id":{"name":"scr_menuOptions","path":"scripts/scr_menuOptions/scr_menuOptions.yy",},"order":2,},
     {"id":{"name":"obj_company","path":"objects/obj_company/obj_company.yy",},"order":2,},
